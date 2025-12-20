@@ -1,0 +1,25 @@
+# --- Web Framework ---
+Flask==2.2.2
+Werkzeug==2.2.2
+flask-cors==3.0.10
+
+# --- Deep Learning / ML ---
+torch==2.5.1
+torchvision==0.24.0
+torchaudio==2.6.0
+
+# --- Media and Computer Vision ---
+#mediapipe==0.10.14
+
+opencv-python>=4.8.0.74
+numpy>=1.24.0
+
+# --- Networking / Utilities ---
+requests>=2.31.0
+
+flask
+flask-cors
+gunicorn
+torch
+numpy
+
