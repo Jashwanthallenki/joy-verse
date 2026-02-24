@@ -1,4 +1,4 @@
-# 🌈 Vidya — Empowering Dyslexic Children Through Personalized Play
+# 🌈 JoyVerse — Empowering Dyslexic Children Through Personalized Play
 
 > “Every child is gifted. They just unwrap their gifts at different times.”  
 > — Inspired by *Taare Zameen Par*
@@ -12,13 +12,13 @@ Children with dyslexia often face challenges in **reading, writing, and spelling
 
 Traditional therapy is effective but **time-consuming, non-scalable, and lacks real-time personalization**.  
 
-That’s where **Vidya** steps in.
+That’s where **JoyVerse** steps in.
 
 ---
 
-## 💡 What is Vidya?
+## 💡 What is JoyVerse?
 
-**Vidya** is an **AI-powered assistive platform** designed to support dyslexic children through **engaging, therapist-supervised games and activities**.  
+**JoyVerse** is an **AI-powered assistive platform** designed to support dyslexic children through **engaging, therapist-supervised games and activities**.  
 It connects **children, therapists, and parents** in one adaptive ecosystem — making learning **fun, personalized, and emotionally supportive.**
 
 ---
